@@ -1,2 +1,2 @@
-*.pbix linguist-language=PowerBI
-*.pbix linguist-detectable=true
+"pbix_file"/*.pbix linguist-language=PowerBI
+"pbix_file"/*.pbix linguist-detectable=true
