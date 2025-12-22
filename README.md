@@ -1,3 +1,5 @@
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
+
 # PowerBI-Analysis-and-Dashboard
 Analyzing Rainfall Impact on Agricultural Productivity Using Power BI
 # 🌾 Rainfall Impact on Agricultural Productivity
